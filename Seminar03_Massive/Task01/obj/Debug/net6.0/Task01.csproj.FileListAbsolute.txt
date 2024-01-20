@@ -3,3 +3,13 @@ H:\GB_CS\Seminar03_Massive\Task01\obj\Debug\net6.0\Task01.GeneratedMSBuildEditor
 H:\GB_CS\Seminar03_Massive\Task01\obj\Debug\net6.0\Task01.AssemblyInfoInputs.cache
 H:\GB_CS\Seminar03_Massive\Task01\obj\Debug\net6.0\Task01.AssemblyInfo.cs
 H:\GB_CS\Seminar03_Massive\Task01\obj\Debug\net6.0\Task01.csproj.CoreCompileInputs.cache
+H:\GB_CS\Seminar03_Massive\Task01\bin\Debug\net6.0\Task01.exe
+H:\GB_CS\Seminar03_Massive\Task01\bin\Debug\net6.0\Task01.deps.json
+H:\GB_CS\Seminar03_Massive\Task01\bin\Debug\net6.0\Task01.runtimeconfig.json
+H:\GB_CS\Seminar03_Massive\Task01\bin\Debug\net6.0\Task01.dll
+H:\GB_CS\Seminar03_Massive\Task01\bin\Debug\net6.0\Task01.pdb
+H:\GB_CS\Seminar03_Massive\Task01\obj\Debug\net6.0\Task01.dll
+H:\GB_CS\Seminar03_Massive\Task01\obj\Debug\net6.0\refint\Task01.dll
+H:\GB_CS\Seminar03_Massive\Task01\obj\Debug\net6.0\Task01.pdb
+H:\GB_CS\Seminar03_Massive\Task01\obj\Debug\net6.0\Task01.genruntimeconfig.cache
+H:\GB_CS\Seminar03_Massive\Task01\obj\Debug\net6.0\ref\Task01.dll

@@ -13,11 +13,11 @@ if (number > 10 && number < 99)
 
     if (firstNum > secondNum)
     {
-        Console.WriteLine("=>" + firstNum);
+        Console.WriteLine("=> " + firstNum);
     }
     else
     {
-        Console.WriteLine("=>" + secondNum);
+        Console.WriteLine("=> " + secondNum);
     }
 }
 else
