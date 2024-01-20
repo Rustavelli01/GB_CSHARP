@@ -9,6 +9,7 @@ while (true) // true == true
     string EnterNumber = Console.ReadLine();
     if (EnterNumber == "q")
     {
+        Console.WriteLine("[STOP]");
         break;
     }
     int number;
@@ -22,13 +23,17 @@ while (true) // true == true
         }
         if (sum % 2 == 0)
         {
+            
             break;
         }
         else
-    {
-       Console.WriteLine("Некорректный ввод. ");
-       Console.WriteLine("введите целое число или 'q'."); 
-    }
+        {
+            Console.WriteLine("[STOP]");
+            Console.WriteLine("Некорректный ввод. ");
+            Console.WriteLine("введите целое число или 'q'.");
+        }
+
+      
     }
     Console.WriteLine(number);
     
